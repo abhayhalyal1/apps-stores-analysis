@@ -47,7 +47,7 @@ Navigation and Reference come out on top, but Navigation is almost entirely Waze
 Google Maps, so the average is meaningless. Reference is more evenly distributed
 across apps and is the more genuine result.
 
-**Android.** The category mix is different — Family and Tools are large, and games
+**Android.** The category mix is different as Family and Tools are large, and games
 aimed at children sit under Family rather than Game, so the Google Play catalogue
 skews more practical than the App Store. By average installs, Communication leads at
 38.5m, but dropping apps above 100m installs (WhatsApp, Messenger, Skype, Gmail and

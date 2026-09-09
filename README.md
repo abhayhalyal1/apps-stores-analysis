@@ -7,7 +7,7 @@ categories by average installs (Android) and average rating count as a proxy for
 installs (iOS), and then checks whether those averages are being driven by a handful
 of outliers.
 
-Written in plain Python with the standard library only — no pandas, no NumPy.
+Written in plain Python with the standard library only, no pandas, no NumPy.
 
 ## Data
 
@@ -81,9 +81,3 @@ AppsAnalysis.ipynb    analysis notebook
 googleplaystore.csv   Google Play data
 AppleStore.csv        App Store data
 ```
-
-## Attribution
-
-The brief and the datasets come from the Dataquest guided project "Profitable App
-Profiles for the App Store and Google Play Markets". The code and the write-up are my
-own.

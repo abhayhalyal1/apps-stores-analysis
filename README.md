@@ -16,7 +16,7 @@ Written in plain Python with the standard library only, no pandas, no NumPy.
 | `googleplaystore.csv` | 10,841 | [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps), Lavanya Gupta (Kaggle, 2018) |
 | `AppleStore.csv` | 7,197 | [Mobile App Store (7200 apps)](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps), Ramanathan Perumal (Kaggle, 2018) |
 
-Both are 2018 snapshots, so the findings describe the market as it was then.
+Both are from 2018, so the findings describe the market as it was then, this may have changed with the introduction of viral apps such as TikTok.
 
 ## Cleaning
 
